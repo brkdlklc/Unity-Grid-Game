@@ -1520,7 +1520,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   circle: {fileID: 7809421421283212933, guid: 3f706dae92b485f40aeb55460dd91154, type: 3}
   width: 3
-  height: 7
+  height: 3
 --- !u!1 &1364274946
 GameObject:
   m_ObjectHideFlags: 0
